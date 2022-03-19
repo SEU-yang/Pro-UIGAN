@@ -1,7 +1,6 @@
 # Pro-UIGAN
 
-Dear friends, Thank you for keep tracking in this implementation of Pro-UIGAN
-! https://arxiv.org/pdf/2108.00602.pdf
+Dear friends, Thank you for keep tracking in this implementation of Pro-UIGAN! https://arxiv.org/pdf/2108.00602.pdf
 
 ## Prerequisites:
 
@@ -10,11 +9,16 @@ Dear friends, Thank you for keep tracking in this implementation of Pro-UIGAN
 - matplotlib
 - skimage
 
+## Our large-scale occluded face datasets 
+
+ [BaiduYun](https://pan.baidu.com/s/1eve7GN_VXXJk5fxyT6LE9g)  (Password: 1234)
+
 ## Train: 
 
 * python train.py
 
 * Change the option in train.py to set the dataset's directory. I am using CelebA-HQ, Multi-PIE and Helen as training sets. 
+  
 
 ## Test
 
